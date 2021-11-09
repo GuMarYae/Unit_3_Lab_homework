@@ -1,0 +1,14 @@
+[
+    {
+      "name": "My Trivia Game",
+      "live": "https://seir-penguin-project-1-woad.vercel.app/",
+      "git": "https://github.com/GuMarYae/Seir-penguin-project-1",
+      "image": "./pics/Screen Shot 2021-11-09 at 11.36.04 AM.png"
+    },
+    {
+      "name": "Wishlists",
+      "live": "https://td-penguin-project2.herokuapp.com/wishlists",
+      "git": "https://github.com/GuMarYae/Penguin_Project2",
+      "image": ".pics/Screen Shot 2021-11-09 at 11.47.32 AM.png"
+    }
+  ]
