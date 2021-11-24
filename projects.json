@@ -6,9 +6,19 @@
       "image": "https://i.imgur.com/nFAof5t.png"
     },
     {
-      "name": "Wishlists",
+      "name": "Wishlistst",
       "live": "https://td-penguin-project2.herokuapp.com/wishlists",
       "git": "https://github.com/GuMarYae/Penguin_Project2",
       "image": "https://i.imgur.com/Ss4QXyJ.png"
+    },
+    {
+      "name": "Group Wishlist",
+      "live": "https://penguin-react-express-project3.netlify.app/",
+      "git": "https://github.com/knguyen111601/project_3_frontend",
+      "image": "https://i.imgur.com/61o4PG7.png"
     }
   ]
+
+
+
+
