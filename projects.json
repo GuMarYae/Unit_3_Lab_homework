@@ -16,6 +16,18 @@
       "live": "https://penguin-react-express-project3.netlify.app/",
       "git": "https://github.com/knguyen111601/project_3_frontend",
       "image": "https://i.imgur.com/61o4PG7.png"
+    },
+    {
+      "name": "Sneaker List",
+      "live": "https://peaceful-khorana-fbb22c.netlify.app/",
+      "git": "https://github.com/knguyen111601/project_3_frontend",
+      "image": "https://i.imgur.com/wFI2rhQ.png"
+    },
+    {
+      "name": "Bills",
+      "live": "https://stupefied-perlman-e7e2a5.netlify.app/",
+      "git": "https://github.com/GuMarYae/Cap_bills_frontend",
+      "image": "https://i.imgur.com/zH6Y2X1.png"
     }
   ]
 
